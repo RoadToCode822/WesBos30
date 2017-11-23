@@ -1,1 +1,2 @@
-# WesBos30
+My Javascript 30 Challenge
+======================
