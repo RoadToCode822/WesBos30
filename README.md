@@ -16,4 +16,6 @@
 
 * [Span tags](https://www.w3schools.com/tags/tag_span.asp) are used to style with css or manipulat with JS, any part of a document
 
+* Transition allows elements to smoothly and gradually change, whereas, transform move or change the appearance of an element. [This article explains it very well](https://robots.thoughtbot.com/transitions-and-transforms).
+
 * 
